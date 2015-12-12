@@ -1,0 +1,750 @@
+.virlyz-header{
+text-align:center;
+font-size:20px;
+background:#666;
+color:#fafafa;
+padding:10px;
+}
+
+.button_wrap {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-align-content: center;
+  align-content: center;
+margin-bottom:20px;
+}
+.button {
+  text-transform: none;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 2.4em;
+  flex: 100 100 8%;
+  -webkit-flex: 100 100 8%;
+}
+.button_turquoise {
+  border: 5px solid #1abc9c;
+  background: #1abc9c;
+  color: transparent;
+  padding: 1px;
+}
+.button_green_sea {
+  border: 5px solid #16a085;
+  background: #16a085;
+  color: transparent;
+  padding: 1px;
+}
+.button_emerald {
+  border: 5px solid #2ecc71;
+  background: #2ecc71;
+  color: transparent;
+  padding: 1px;
+}
+.button_nephritis {
+  border: 5px solid #27ae60;
+  background: #27ae60;
+  color: transparent;
+  padding: 1px;
+}
+.button_peter_river {
+  border: 5px solid #3498db;
+  background: #3498db;
+  color: transparent;
+  padding: 1px;
+}
+.button_belize_hole {
+  border: 5px solid #2980b9;
+  background: #2980b9;
+  color: transparent;
+  padding: 1px;
+}
+.button_amethyst {
+  border: 5px solid #9b59b6;
+  background: #9b59b6;
+  color: transparent;
+  padding: 1px;
+}
+.button_wisteria {
+  border: 5px solid #8e44ad;
+  background: #8e44ad;
+  color: transparent;
+  padding: 1px;
+}
+.button_wet_asphalt {
+  border: 5px solid #34495e;
+  background: #34495e;
+  color: transparent;
+  padding: 1px;
+}
+.button_midnight_blue {
+  border: 5px solid #2c3e50;
+  background: #2c3e50;
+  color: transparent;
+  padding: 1px;
+}
+.button_sunflower {
+  border: 5px solid #f1c40f;
+  background: #f1c40f;
+  color: transparent;
+  padding: 1px;
+}
+.button_orange {
+  border: 5px solid #f39c12;
+  background: #f39c12;
+  color: transparent;
+  padding: 1px;
+}
+.button_carrot {
+  border: 5px solid #e67e22;
+  background: #e67e22;
+  color: transparent;
+  padding: 1px;
+}
+.button_pumpkin {
+  border: 5px solid #d35400;
+  background: #d35400;
+  color: transparent;
+  padding: 1px;
+}
+.button_alizarin {
+  border: 5px solid #e74c3c;
+  background: #e74c3c;
+  color: transparent;
+  padding: 1px;
+}
+.button_pomegranate {
+  border: 5px solid #c0392b;
+  background: #c0392b;
+  color: transparent;
+  padding: 1px;
+}
+.button_clouds {
+  border: 5px solid #ecf0f1;
+  background: #ecf0f1;
+  color: transparent;
+  padding: 1px;
+}
+.button_silver {
+  border: 5px solid #bdc3c7;
+  background: #bdc3c7;
+  color: transparent;
+  padding: 1px;
+}
+.button_concrete {
+  border: 5px solid #95a5a6;
+  background: #95a5a6;
+  color: transparent;
+  padding: 1px;
+}
+.button_asbestos {
+  border: 5px solid #7f8c8d;
+  background: #7f8c8d;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_chestnut_rose{
+  border: 5px solid #D24D57;
+  background: #D24D57;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_alice_blue{
+  border: 5px solid #E4F1FE;
+  background: #E4F1FE;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_spray{
+  border: 5px solid #81CFE0;
+  background: #81CFE0;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_gossip{
+  border: 5px solid #87D37C;
+  background: #87D37C;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_cream_can{
+  border: 5px solid #F5D76E;
+  background: #F5D76E;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_silver_tree{
+  border: 5px solid #68C3A3;
+  background: #68C3A3;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_cape_honey{
+  border: 5px solid #FDE3A7;
+  background: #FDE3A7;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_medium_turquoise{
+  border: 5px solid #4ECDC4;
+  background: #4ECDC4;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_white_smoke{
+  border: 5px solid #ECECEC;
+  background: #ECECEC;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_lynch{
+  border: 5px solid #6C7A89;
+  background: #6C7A89;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_crusta{
+  border: 5px solid #F2784B;
+  background: #F2784B;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_jungle_green{
+  border: 5px solid #26C281;
+  background: #26C281;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_hoki{
+  border: 5px solid #67809F;
+  background: #67809F;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_wax_flower{
+  border: 5px solid #F1A9A0;
+  background: #F1A9A0;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_observatory{
+  border: 5px solid #049372;
+  background: #049372;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_ecstacy{
+  border: 5px solid #F9690E;
+  background: #F9690E;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_bellflower {
+  border: 5px solid #5D3F6A;
+  background: #5D3F6A;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_redplum {
+  border: 5px solid #DB5A6B;
+  background: #DB5A6B;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_medium_crimson {
+  border: 5px solid #C93756;
+  background: #C93756;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_peach {
+  border: 5px solid #F47983;
+  background: #F47983;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_madang {
+  border: 5px solid #C8F7C5;
+  background: #C8F7C5;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_violet {
+  border: 5px solid #5B3256;
+  background: #5B3256;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_iris {
+  border: 5px solid #763568;
+  background: #763568;
+  color: transparent;
+  padding: 1px;
+}
+
+.button_thin {
+  border: 5px solid #A87CA0;
+  background: #A87CA0;
+  color: transparent;
+  padding: 1px;
+}
+.button_wisteria {
+  border: 5px solid #89729E;
+  background: #89729E;
+  color: transparent;
+  padding: 1px;
+}
+.button_tatarian_aster {
+  border: 5px solid #8D608C;
+  background: #8D608C;
+  color: transparent;
+  padding: 1px;
+}
+.button_sky {
+  border: 5px solid #4D8FAC;
+  background: #4D8FAC;
+  color: transparent;
+  padding: 1px;
+}
+.button_ultramarine {
+  border: 5px solid #5D8CAE;
+  background: #5D8CAE;
+  color: transparent;
+  padding: 1px;
+}
+.button_thousand_herb {
+  border: 5px solid #317589;
+  background: #317589;
+  color: transparent;
+  padding: 1px;
+}
+.button_hanada {
+  border: 5px solid #044F67;
+  background: #044F67;
+  color: transparent;
+  padding: 1px;
+}
+.button_navyblue {
+  border: 5px solid #003171;
+  background: #003171;
+  color: transparent;
+  padding: 1px;
+}
+.button_lapislazuli {
+  border: 5px solid #1F4788;
+  background: #1F4788;
+  color: transparent;
+  padding: 1px;
+}
+.button_indigo {
+  border: 5px solid #264348;
+  background: #264348;
+  color: transparent;
+  padding: 1px;
+}
+.button_younggreen {
+  border: 5px solid #8DB255;
+  background: #8DB255;
+  color: transparent;
+  padding: 1px;
+}
+.button_patina {
+  border: 5px solid #407A52;
+  background: #407A52;
+  color: transparent;
+  padding: 1px;
+}
+.button_sumac {
+  border: 5px solid #E08A1E;
+  background: #E08A1E;
+  color: transparent;
+  padding: 1px;
+}
+.button_freshonion {
+  border: 5px solid #5B8930;
+  background: #5B8930;
+  color: transparent;
+  padding: 1px;
+}
+.button_siskin {
+  border: 5px solid #7A942E;
+  background: #7A942E;
+  color: transparent;
+  padding: 1px;
+}
+.button_harborrat {
+  border: 5px solid #757D75;
+  background: #757D75;
+  color: transparent;
+  padding: 1px;
+}
+.button_amber {
+  border: 5px solid #CA6924;
+  background: #CA6924;
+  color: transparent;
+  padding: 1px;
+}
+.button_new1 {
+  border: 5px solid #DC3522;
+  background: #DC3522;
+  color: transparent;
+  padding: 1px;
+}
+.button_new2 {
+  border: 5px solid #D9CB9E;
+  background: #D9CB9E;
+  color: transparent;
+  padding: 1px;
+}
+.button_new3 {
+  border: 5px solid #374140;
+  background: #374140;
+  color: transparent;
+  padding: 1px;
+}
+.button_new4 {
+  border: 5px solid #2A2C2B;
+  background: #2A2C2B;
+  color: transparent;
+  padding: 1px;
+}
+.button_new5 {
+  border: 5px solid #1E1E20;
+  background: #1E1E20;
+  color: transparent;
+  padding: 1px;
+}
+.button_new6 {
+  border: 5px solid #8BA987;
+  background: #8BA987;
+  color: transparent;
+  padding: 1px;
+}
+.button_new7 {
+  border: 5px solid #6C7767;
+  background: #6C7767;
+  color: transparent;
+  padding: 1px;
+}
+.button_new8 {
+  border: 5px solid #4A6266;
+  background: #4A6266;
+  color: transparent;
+  padding: 1px;
+}
+.button_new9 {
+  border: 5px solid #F46B63;
+  background: #F46B63;
+  color: transparent;
+  padding: 1px;
+}
+.button_new10 {
+  border: 5px solid #BE6263;
+  background: #BE6263;
+  color: transparent;
+  padding: 1px;
+}
+.button_new11 {
+  border: 5px solid #F7BD80;
+  background: #F7BD80;
+  color: transparent;
+  padding: 1px;
+}
+.button_new12 {
+  border: 5px solid #771D1C;
+  background: #771D1C;
+  color: transparent;
+  padding: 1px;
+}
+.button_new13 {
+  border: 5px solid #7BE0D0;
+  background: #7BE0D0;
+  color: transparent;
+  padding: 1px;
+}
+.button_new14 {
+  border: 5px solid #FF6F18;
+  background: #FF6F18;
+  color: transparent;
+  padding: 1px;
+}
+.button_new15 {
+  border: 5px solid #A84B05;
+  background: #A84B05;
+  color: transparent;
+  padding: 1px;
+}
+.button_new16 {
+  border: 5px solid #BED891;
+  background: #BED891;
+  color: transparent;
+  padding: 1px;
+}
+.button_new17 {
+  border: 5px solid #203428;
+  background: #203428;
+  color: transparent;
+  padding: 1px;
+}
+.button_new18 {
+  border: 5px solid #FFE88A;
+  background: #FFE88A;
+  color: transparent;
+  padding: 1px;
+}
+.button_new19 {
+  border: 5px solid #132729;
+  background: #132729;
+  color: transparent;
+  padding: 1px;
+}
+.button_new20 {
+  border: 5px solid #00DFD6;
+  background: #00DFD6;
+  color: transparent;
+  padding: 1px;
+}
+.button_new21 {
+  border: 5px solid #FF581F;
+  background: #FF581F;
+  color: transparent;
+  padding: 1px;
+}
+.button_new22 {
+  border: 5px solid #5A5133;
+  background: #5A5133;
+  color: transparent;
+  padding: 1px;
+}
+.button_new23 {
+  border: 5px solid #DE6141;
+  background: #DE6141;
+  color: transparent;
+  padding: 1px;
+}
+.button_new24 {
+  border: 5px solid #AC3E27;
+  background: #AC3E27;
+  color: transparent;
+  padding: 1px;
+}
+.button_new25 {
+  border: 5px solid #fc6e51;
+  background: #fc6e51;
+  color: transparent;
+  padding: 1px;
+}
+.button_new26 {
+  border: 5px solid #db5138;
+  background: #db5138;
+  color: transparent;
+  padding: 1px;
+}
+.button_new27 {
+  border: 5px solid #E68364;
+  background: #E68364;
+  color: transparent;
+  padding: 1px;
+}
+.button_new28 {
+  border: 5px solid #e06666;
+  background: #e06666;
+  color: transparent;
+  padding: 1px;
+}
+.button_new29 {
+  border: 5px solid #009688;
+  background: #009688;
+  color: transparent;
+  padding: 1px;
+}
+.button_new30 {
+  border: 5px solid #454851;
+  background: #454851;
+  color: transparent;
+  padding: 1px;
+}
+.button_new31 {
+  border: 5px solid #455261;
+  background: #455261;
+  color: transparent;
+  padding: 1px;
+}
+.button_new32 {
+  border: 5px solid #31333e;
+  background: #31333e;
+  color: transparent;
+  padding: 1px;
+}
+.button_new33 {
+  border: 5px solid #2c343c;
+  background: #2c343c;
+  color: transparent;
+  padding: 1px;
+}
+.button_new34 {
+  border: 5px solid #252A2F;
+  background: #252A2F;
+  color: transparent;
+  padding: 1px;
+}
+.button_new35 {
+  border: 5px solid #36424a;
+  background: #36424a;
+  color: transparent;
+  padding: 1px;
+}
+.button_new36 {
+  border: 5px solid #19B5FE;
+  background: #19B5FE;
+  color: transparent;
+  padding: 1px;
+}
+
+.hasil-kode {
+  padding-top: 15px;
+  font-size:20px;
+  color: #999;
+  width: 100%;
+  background: #F2F1EF;
+}
+section {
+  background: #transparent;
+  margin: 30px;
+  font-family: "Arvo";
+  width: 80%;
+  color: #000;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  text-align: left;
+}
+
+@media (max-width: 800px) {
+  .button_wrap {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-align-content: center;
+    align-content: center;
+  }
+  .button {
+    font-size: 12px;
+  }
+  .hasil-kode {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 490px) {
+  .button_wrap {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-align-content: center;
+    align-content: center;
+  }
+  .button {
+    font-size: 9px;
+  }
+  .hasil-kode {
+    width: 100%;
+  }
+}
+@media (max-width: 360px) {
+  .button_wrap {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-align-content: center;
+    align-content: center;
+  }
+  .button {
+    font-size: 7px;
+  }
+}
+@media (max-width: 320px) {
+  .button_wrap {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-align-content: center;
+    align-content: center;
+  }
+  .button {
+    font-size: 5px;
+  }
+  .hasil-kode {
+    width: 100%;
+  }
+}
